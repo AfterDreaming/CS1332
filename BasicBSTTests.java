@@ -18,8 +18,8 @@ import static org.junit.Assert.assertEquals;
  *
  * Created February 11, 2014
  *
- * @author Jonthan Jemson
- * @version 1.0
+ * @author Yufan Zhuang
+ * @version 2.0
  */
 public class BasicBSTTests {
     private BinaryTree<Integer> tree;
