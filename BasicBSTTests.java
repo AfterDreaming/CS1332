@@ -17,6 +17,8 @@ import static org.junit.Assert.assertEquals;
  * CS 1332 Homework 05
  *
  * Created February 11, 2014
+ * 
+ * Edit by 6/5/2015
  *
  * @author Yufan Zhuang
  * @version 2.0
